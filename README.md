@@ -1,4 +1,4 @@
-Rus Eng
+Рус [Eng](#about-myself)
 
 # About myself
 My real name is Dmitriy. I currently live in Russia.
