@@ -11,7 +11,7 @@ _Пояснения по вышеперечисленным пунктам:_
 + _Делаю упор на интерактивные обучающие платформы с богатой анимацией и 3D-графикой, потому что считаю существующую учебную систему слишком монотонной - её надо немного разбавить динамикой и красочностью_
 
 _О причинах смены основного направления (с системного администратора на веб-программиста):_
-+ _JavaScript также можно использовать для написания скриптов к ОС, автоматизировать рутину. Освобождаемся себя от отнообразной и монотонной рутины - получаем больще времени для творчества и новых идей. Обе профессии будут гармонично дополнять друг друга._
++ _JavaScript также можно использовать для написания скриптов к ОС, автоматизировать рутину. Освобождая себя от однообразной рутины, мы получаем больше времени для творчества и новых идей. Обе профессии будут гармонично дополнять друг друга._
 + _Системное администрирование не давало мне такого большого количества возможностей для самовыражения и реализации своих идей, как веб-программирование._
 ## Мои интересы и увлечения в других сферах
 - Дизайн (Adobe Photoshop - создание композиций, подбор цветов, изменение лица, одежды)
@@ -82,4 +82,8 @@ I welcome everyone to my profile! My name is Dmitry, I currently live in Russia.
 _Explanations on the above points:_
 + _I focus on the frontend, because it is better suited for promoting ideas (although the backend is also interesting to me)_
 + _I focus on interactive learning platforms with rich animation and 3D graphics, because I think the existing educational system is too monotonous - it needs to be diluted a little with dynamics and colorfulness_
+
+_About the reasons for the change of the main direction (from a system administrator to a web programmer:_
++ _JavaScript can also be used to write scripts for the OS, automate the routine. By freeing ourselves from the monotonous routine, we get more time for creativity and new ideas. Both professions will complement each other harmoniously_
++ _System administration did not give me as many opportunities for self-expression and realization of my ideas as web programming_
 
