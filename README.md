@@ -15,11 +15,16 @@ _О причинах смены основного направления (от 
 + _Системное администрирование не давало мне такого большого количества возможностей для самовыражения и реализации своих идей, как веб-программирование._
 ## Портфолио готовых проектов
 * "Научиться учиться"
+
 https://github.com/EarthlingWW-ZeitVenus/how-to-learn
 * "Путешествия по России"
+
 https://github.com/EarthlingWW-ZeitVenus/russian-travel
 * Дипломная работа "Movies explorer"
-https://github.com/EarthlingWW-ZeitVenus/movies-explorer-frontend
+
+[Фронтенд часть](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-frontend)
+
+[Бекенд часть](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-api)
 ## Мои интересы и увлечения в других сферах
 - Дизайн (Adobe Photoshop - создание композиций, подбор цветов, изменение лица, одежды)
 - 3D моделирование и создание 3D фильмов (iClone)
