@@ -13,7 +13,7 @@ _Пояснения по вышеперечисленным пунктам:_
 _О причинах смены основного направления (с системного администратора на веб-программиста):_
 + _JavaScript также можно использовать для написания скриптов к ОС, автоматизировать рутину. Освобождая себя от однообразной рутины, мы получаем больше времени для творчества и новых идей. Обе профессии будут гармонично дополнять друг друга._
 + _Системное администрирование не давало мне такого большого количества возможностей для самовыражения и реализации своих идей, как веб-программирование._
-## Мои интересы и увлечения в других сферах
+## Мои интересы и увлечения в других сферах деятельности
 - Дизайн (Adobe Photoshop - создание композиций, подбор цветов, изменение лица, одежды)
 - 3D моделирование и создание 3D фильмов (iClone)
 - Видемонтаж (Adobe Premiere)
@@ -86,4 +86,26 @@ _Explanations on the above points:_
 _About the reasons for the change of the main direction (from a system administrator to a web programmer:_
 + _JavaScript can also be used to write scripts for the OS, automate the routine. By freeing ourselves from the monotonous routine, we get more time for creativity and new ideas. Both professions will complement each other harmoniously_
 + _System administration did not give me as many opportunities for self-expression and realization of my ideas as web programming_
+## My interests and hobbies in other fields of activity:
++ Design (Adobe Photoshop - creating compositions, color matching, changing faces, clothes)
++ 3D modeling and creation of 3D movies (iClone)
++ Video Editing (Adobe Premiere)
++ Psychology
++ Philosophy
++ Neurobiology
++ Transformation of consciousness
++ Dietetics
++ Somnology
++ Addictology
++ Sociology
++ NLP
++ Combinatorics
++ Abstract thinking
++ Emotional intelligence
++ Leadership
+## More about myself
+I am interested in many things and study a lot - I believe that any life process is a complex process involving related processes. Therefore, I prefer to raise related disciplines and not specialize narrowly only in one area. This makes thinking more flexible, allows you to see nuances and new opportunities where others do not notice them.
 
+In parallel with the main direction, I am also studying the effect of hormones and neurotransmitters on the body, how human states and moods are formed. In particular, I am interested in emotional dependencies, the effect of the "dopamine loop" that generates them, how to increase a person's learning ability and concentration. I am developing my personal system of training, sleep and nutrition, for the production of hormonal background, accompanying (to achieve the goal) emotions and states.
+
+I write global ideological projects. My ideas and understanding of the World - how I would like to see it - overlap in many ways with the ideas presented in such scientific documentaries as Zeitgeist, Thrive, Crossroads, What the bleep do we know!?: down the rabbit hole... I am promoting a new paradigm of human coexistence, which is based on a "Holistic Worldview". I have thoughts and developments on a new economic model - the system of planning human activity and the distribution of the planet's resources, on the ways of organizing creative activity at enterprises. There is an understanding of how to make a smooth transition to all of the above. I will post links to the description of my ideas here later. * I am looking here ideologically and spiritually for people close to me. Together we will be able to change reality - I am sure of it!*
