@@ -68,13 +68,9 @@ https://github.com/EarthlingWW-ZeitVenus/russian-travel
 ![JS](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/8ca76f21-2c3d-4d60-b930-d52cc74b4b78)
 ![react](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/ca83f768-82c2-40d1-bf9d-529b8a4ba793)
 ![NodeJS](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/98ffe5be-18ae-4033-8664-1df6063129f3)
-![MongoDB-small](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/924d1460-c567-424c-ba11-30b24907d7bc)
-
+![MongoDB](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/c920c5ec-a779-4104-8c43-91aaf7bb3370)
 
 HTML, CSS, Git, JS, React, Express.js, MongoDB
-
-
-
 # About myself
 My real name is Dmitriy. I currently live in Russia.
 
