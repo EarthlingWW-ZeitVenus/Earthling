@@ -59,7 +59,6 @@ https://github.com/EarthlingWW-ZeitVenus/russian-travel
 [Фронтенд часть](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-frontend)
 
 [Бекенд часть](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-api)
-
 # Стек используемых технологий
 
 ![HTML](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/c01f6e93-0bff-4908-9d3a-4c3923af6208)
@@ -113,3 +112,22 @@ I write global ideological projects. My ideas and understanding of the world - a
 e-mail: dmitshash@yandex.ru, dmitshash@google.com
 
 telegram: @dmitriy_earthling
+# Portfolio of finished projects
+* ["How to learn"](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/1dfe1bfa-cf51-4983-89b2-64cc7b0357e0)
+* ["Travel in Russia"](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/d5c11137-3de5-4a82-85a1-b92d3bf0df28)
+* Graduate work "Movies explorer"
+
+[Frontend](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-frontend)
+
+[Backend](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-api)
+# The stack of used technologies
+
+![HTML](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/c01f6e93-0bff-4908-9d3a-4c3923af6208)
+![CSS](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/9678f093-475e-42af-b7ae-f4916a55ab71)
+![Git](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/c3142399-e059-4870-992c-bb9a6e64724c)
+![JS](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/8ca76f21-2c3d-4d60-b930-d52cc74b4b78)
+![react](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/ca83f768-82c2-40d1-bf9d-529b8a4ba793)
+![NodeJS](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/98ffe5be-18ae-4033-8664-1df6063129f3)
+![MongoDB](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/c920c5ec-a779-4104-8c43-91aaf7bb3370)
+
+HTML, CSS, Git, JS, React, Express.js, MongoDB
