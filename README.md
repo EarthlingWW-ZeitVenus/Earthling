@@ -13,7 +13,7 @@ _Пояснения по вышеперечисленным пунктам:_
 _О причинах смены основного направления (от системного администратора на веб-программиста):_
 + _JavaScript также можно использовать для написания скриптов к ОС, автоматизировать рутину. Освобождаемся себя от отнообразной и монотонной рутины - получаем больще времени для творчества и новых идей. Обе профессии будут гармонично дополнять друг друга._
 + _Системное администрирование не давало мне такого большого количества возможностей для самовыражения и реализации своих идей, как веб-программирование._
-## Портфолио готовых проектов
+# Портфолио готовых проектов
 * "Научиться учиться"
 
 ![На картинке изображен мальчик, собачка и женщина](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/1dfe1bfa-cf51-4983-89b2-64cc7b0357e0)
@@ -31,6 +31,19 @@ https://github.com/EarthlingWW-ZeitVenus/russian-travel
 [Фронтенд часть](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-frontend)
 
 [Бекенд часть](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-api)
+
+# Стек используемых технологий
+
+![HTML](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/c01f6e93-0bff-4908-9d3a-4c3923af6208)
+![CSS](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/9678f093-475e-42af-b7ae-f4916a55ab71)
+![Git](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/c3142399-e059-4870-992c-bb9a6e64724c)
+![JS](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/8ca76f21-2c3d-4d60-b930-d52cc74b4b78)
+![react](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/ca83f768-82c2-40d1-bf9d-529b8a4ba793)
+![NodeJS](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/98ffe5be-18ae-4033-8664-1df6063129f3)
+![MongoDB-small](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/924d1460-c567-424c-ba11-30b24907d7bc)
+
+
+HTML, CSS, Git, JS, React, Express.js, MongoDB
 ## Мои интересы и увлечения в других сферах
 - Дизайн (Adobe Photoshop - создание композиций, подбор цветов, изменение лица, одежды)
 - 3D моделирование и создание 3D фильмов (iClone)
