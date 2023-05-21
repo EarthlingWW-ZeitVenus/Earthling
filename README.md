@@ -109,3 +109,7 @@ I am interested in many things and study a lot - I believe that any life process
 In parallel with the main direction, I am also studying the effect of hormones and neurotransmitters on the body, how human states and moods are formed. In particular, I am interested in emotional dependencies, the effect of the "dopamine loop" that generates them, how to increase a person's learning ability and concentration. I am developing my personal system of training, sleep and nutrition, for the production of hormonal background, accompanying (to achieve the goal) emotions and states.
 
 I write global ideological projects. My ideas and understanding of the world - as I would like to see it - overlap in many ways with the ideas presented in such scientific documentaries as "Zeitgeist", "Flourish", "Crossroads", "What the hell do we know!?: down the Rabbit hole"... I am promoting a new paradigm of human coexistence, which is based on a "Holistic Worldview". There are thoughts and developments about a new economic model - a system for planning human activity and allocating the planet's resources, there are thoughts on ways to organize creative activities at enterprises. There is an understanding of how to make a smooth transition to all of the above. Later I will post here links to a description of my ideas. *I am looking for people who are ideologically and spiritually close to me here. Together we can change reality - I am sure of it!*
+## My contacts
+e-mail: dmitshash@yandex.ru, dmitshash@google.com
+
+telegram: @dmitriy_earthling
