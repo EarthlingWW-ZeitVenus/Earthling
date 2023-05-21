@@ -4,7 +4,7 @@
 Меня зовут Дмитрий, в настоящеев время проживаю в России.
 ## Мои интересы в программировании:
 * Закрепление навыков frontend-разработки
-* Создавание интерактивных обучающих платформ с анимацией и виртуальными эмуляторами-тренажерами (наподобие CISCO, Microsoft, Google и Яндекс), использование 3D-анимации и библиотеки WebGL.
+* Создание интерактивных обучающих платформ с анимацией и виртуальными эмуляторами-тренажерами (наподобие CISCO, Microsoft, Google и Яндекс), использование 3D-анимации и библиотеки WebGL.
 
 _Пояснения по вышеперечисленным пунктам:_
 + _Делаю упор на фронтенд, а не на бекенд, потому что он лучше подходит для продвижения идей (хотя и бекенд мне тоже интересен)_
@@ -71,8 +71,13 @@ https://github.com/EarthlingWW-ZeitVenus/russian-travel
 ![MongoDB](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/c920c5ec-a779-4104-8c43-91aaf7bb3370)
 
 HTML, CSS, Git, JS, React, Express.js, MongoDB
+
+*****************************************************************************************************************************************
 # About myself
-My real name is Dmitriy. I currently live in Russia.
+I welcome everyone to my profile! My name is Dmitry, I currently live in Russia.
+## My interests in programming:
+* Consolidating frontend development skills
+* Creating an interactive learning platform with animation and virtual emulators-simulators (like CISCO, Microsoft, Google and Yandex), using 3D animation and the WebGL library.
 
 My main goal is to promote a new paradigm of human coexistence on Earth. And all other goals are the stages necessary to achieve the main goal.
 
