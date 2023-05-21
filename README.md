@@ -21,6 +21,8 @@ _О причинах смены основного направления (от 
 https://github.com/EarthlingWW-ZeitVenus/how-to-learn
 * "Путешествия по России"
 
+![Женщина спит в вагоне поезда](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/d5c11137-3de5-4a82-85a1-b92d3bf0df28)
+
 https://github.com/EarthlingWW-ZeitVenus/russian-travel
 * Дипломная работа "Movies explorer"
 
