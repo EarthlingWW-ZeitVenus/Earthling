@@ -7,8 +7,8 @@
 * Создание интерактивных обучающих платформ с анимацией и виртуальными эмуляторами-тренажерами (наподобие CISCO, Microsoft, Google и Яндекс), использование 3D-анимации и библиотеки WebGL.
 
 _Пояснения по вышеперечисленным пунктам:_
-+ _Делаю упор на фронтенд, а не на бекенд, потому что он лучше подходит для продвижения идей (хотя и бекенд мне тоже интересен)_
-+ _Делаю упор на интерактивные обучающие платформы с богатой анимацией и 3D-графикой, потому что считаю существующую систему обучения слишком монотонной - её надо немного разбавить динамикой и красочностью компьютерных игр_
++ _Делаю упор на фронтенд, потому что он лучше подходит для продвижения идей (хотя и бекенд мне тоже интересен)_
++ _Делаю упор на интерактивные обучающие платформы с богатой анимацией и 3D-графикой, потому что считаю существующую учебную систему слишком монотонной - её надо немного разбавить динамикой и красочностью_
 
 _О причинах смены основного направления (от системного администратора на веб-программиста):_
 + _JavaScript также можно использовать для написания скриптов к ОС, автоматизировать рутину. Освобождаемся себя от отнообразной и монотонной рутины - получаем больще времени для творчества и новых идей. Обе профессии будут гармонично дополнять друг друга._
@@ -79,17 +79,7 @@ I welcome everyone to my profile! My name is Dmitry, I currently live in Russia.
 * Consolidating frontend development skills
 * Creating an interactive learning platform with animation and virtual emulators-simulators (like CISCO, Microsoft, Google and Yandex), using 3D animation and the WebGL library.
 
-My main goal is to promote a new paradigm of human coexistence on Earth. And all other goals are the stages necessary to achieve the main goal.
+_Explanations on the above points:_
++ _I focus on the frontend, because it is better suited for promoting ideas (although the backend is also interesting to me)_
++ _I focus on interactive learning platforms with rich animation and 3D graphics, because I think the existing educational system is too monotonous - it needs to be diluted a little with dynamics and colorfulness_
 
-New Paradigm - based on a holistic worldview. This is a new way of thinking, a new way to act and react to the surrounding reality. A new way of human coexistence on the planet - without countries, politics, competition and wars (conventional and economic). My understanding of the world has found an intersection in many points with such scientific documentaries as Zeitgeist (all three parts), Thrive, Crossroads, Down The Rabbit Hole...
-
-Also i have ideas and developments on the following:
-
-New Economic Model - new way of managing the planet's resources and human self-realization in the context of this.
-
-New Open Enterprice Model (without directors, model based on a generally accepted (consensus method) decision-making algorithm).
-
-For me, web programming is a tool for implementing even my most intricate ideas.
-
-I would like to find people ideologically close to me here (in Github) and cooperate with them to create global ideological projects.
-This does not mean that we will not earn anything from this, it means that the main thing will be the promotion of the idea, and not the maximization of profits
