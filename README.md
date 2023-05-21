@@ -26,6 +26,8 @@ https://github.com/EarthlingWW-ZeitVenus/how-to-learn
 https://github.com/EarthlingWW-ZeitVenus/russian-travel
 * Дипломная работа "Movies explorer"
 
+![Фон цвета морской волны, на нем глобус из слов](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/cce6e39a-d5cb-4156-81a3-291f878f4bb2)
+
 [Фронтенд часть](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-frontend)
 
 [Бекенд часть](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-api)
