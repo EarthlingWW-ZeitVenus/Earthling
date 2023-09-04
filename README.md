@@ -47,11 +47,13 @@ HTML, CSS (Grid, Flex, медиа-запросы, псевдоэлементы),
 ## Дипломная работа "Movies explorer"
 ![Фон цвета морской волны, на нем глобус из слов](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/cce6e39a-d5cb-4156-81a3-291f878f4bb2)
 ### Функционал
-* Дипломная работа "Movies explorer"
-
-[Фронтенд часть](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-frontend)
-
-[Бекенд часть](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-api)
+Проект с регистрацией и авторизацией пользователей (авто-авторизация при повторном входе есть тоже), с поиском, добавлением и удалением карточек-фильмов. Бургер-меню, личная страничка пользователя, страница презентация, «not-found»-страница. Для карточек с фильмами и сохраненными фильмами используются отдельные страницы, которые синхронизируются между собой и с базой данных по статусу и отображению. Страница пользователя позволяет просматривать личные данные и изменять их на новые, новые данные, по запросу, также синхронизируются с базой данных. В формах релизована защита от ошибок ввода, излишних запросов и повторов ввода. Бекенд часть с базой данных, сохраненияет и удаляет экземпляры коллекций карточек и пользователей, обрабатывает api-запросы.
+### Технологии
+HTML, CSS, Git, JS, React, Express.js, MongoDB
+### Ссылки
+* [Код - фронтенд часть](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-frontend)
+* [Код - бекенд часть](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-api)
+* [Сайт](https://movie-explorer-frontend.nomoredomains.icu/)
 # Стек используемых технологий
 
 ![HTML](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/c01f6e93-0bff-4908-9d3a-4c3923af6208)
