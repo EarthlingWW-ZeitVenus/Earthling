@@ -35,11 +35,18 @@ HTML, CSS (Grid, Flex, псевдоэлементы), Git
 ### Ссылки
 * [Код](https://github.com/EarthlingWW-ZeitVenus/how-to-learn)
 * [Сайт](https://how-to-learn-mu.vercel.app)
-
+## Путешествия по России
 ![Женщина спит в вагоне поезда](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/d5c11137-3de5-4a82-85a1-b92d3bf0df28)
-* ["Путешествия по России"](https://github.com/EarthlingWW-ZeitVenus/russian-travel)
-
+### Функционал
+Учебный проект для совершенствования навыков веб-программирования. Информационная страница, описывающая особенности путешествий по територии России.
+### Технологии
+HTML, CSS (Grid, Flex, медиа-запросы, псевдоэлементы), Git
+### Ссылки
+* [Код](https://github.com/EarthlingWW-ZeitVenus/russian-travel)
+* [Сайт](https://earthlingww-zeitvenus.github.io/russian-travel/index.html)
+## Дипломная работа "Movies explorer"
 ![Фон цвета морской волны, на нем глобус из слов](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/cce6e39a-d5cb-4156-81a3-291f878f4bb2)
+### Функционал
 * Дипломная работа "Movies explorer"
 
 [Фронтенд часть](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-frontend)
