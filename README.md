@@ -35,6 +35,7 @@ HTML, CSS (Grid, Flex, псевдоэлементы), Git
 ### Ссылки
 * [Код](https://github.com/EarthlingWW-ZeitVenus/how-to-learn)
 * [Сайт](https://how-to-learn-mu.vercel.app)
+
 ![Женщина спит в вагоне поезда](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/d5c11137-3de5-4a82-85a1-b92d3bf0df28)
 * ["Путешествия по России"](https://github.com/EarthlingWW-ZeitVenus/russian-travel)
 
