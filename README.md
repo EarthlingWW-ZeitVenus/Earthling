@@ -19,8 +19,12 @@ telegram: @dmitriy_earthling
 * Автоматизация и оптимизация задач системного администрирования, посредством скриптов JS
 # Портфолио готовых проектов
 ![На картинке изображен мальчик, собачка и женщина](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/1dfe1bfa-cf51-4983-89b2-64cc7b0357e0)
-
 * ["Научиться учиться"](https://github.com/EarthlingWW-ZeitVenus/how-to-learn)
+
+![Женщина спит в вагоне поезда](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/d5c11137-3de5-4a82-85a1-b92d3bf0df28)
+* ["Путешествия по России"](https://github.com/EarthlingWW-ZeitVenus/russian-travel)
+
+
 
 
 # Стек используемых технологий
