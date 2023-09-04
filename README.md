@@ -18,8 +18,9 @@ telegram: @dmitriy_earthling
 * Хотелось бы углубиться в использование 3D-анимации и библиотеки WebGL
 * Автоматизация и оптимизация задач системного администрирования, посредством скриптов JS
 # Портфолио готовых проектов
-* "Научиться учиться"![На картинке изображен мальчик, собачка и женщина](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/1dfe1bfa-cf51-4983-89b2-64cc7b0357e0)
+![На картинке изображен мальчик, собачка и женщина](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/1dfe1bfa-cf51-4983-89b2-64cc7b0357e0)
 
+* ["Научиться учиться"](https://github.com/EarthlingWW-ZeitVenus/how-to-learn)
 
 
 # Стек используемых технологий
