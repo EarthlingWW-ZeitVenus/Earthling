@@ -4,6 +4,9 @@
   + [Мои контакты](#%D0%BC%D0%BE%D0%B8-%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B)
   + [Мои интересы в программировании](#%D0%BC%D0%BE%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%8B-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8)
 - [ПОРТФОЛИО ГОТОВЫХ ПРОЕКТОВ](#%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE-%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2)
+  + [Научиться учиться]
+  + [Путешествия по России]
+  + [Дипломная работа "Movies Explorer"]
 - [СТЕК ИСПОЛЬЗУЕМЫХ ТЕХНОЛОГИЙ](#%D1%81%D1%82%D0%B5%D0%BA-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC%D1%8B%D1%85-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B9)
 - [ДОПОЛНИТЕЛЬНО О СЕБЕ (МОТИВАЦИЯ, ИДЕОЛОГИЯ, ХОББИ)](#%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BE-%D1%81%D0%B5%D0%B1%D0%B5-%D0%BC%D0%BE%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8%D0%B4%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D1%85%D0%BE%D0%B1%D0%B1%D0%B8)
   + [Мои увлечения](#%D0%BC%D0%BE%D0%B8-%D1%83%D0%B2%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
@@ -23,7 +26,11 @@ telegram: @dmitriy_earthling
 * Хотелось бы углубиться в использование 3D-анимации и библиотеки WebGL
 * Автоматизация и оптимизация задач системного администрирования, посредством скриптов JS
 # Портфолио готовых проектов
+## Научиться учиться
 ![На картинке изображен мальчик, собачка и женщина](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/1dfe1bfa-cf51-4983-89b2-64cc7b0357e0)
+### Функционал
+### Технологии
+### Ссылки
 * ["Научиться учиться"](https://github.com/EarthlingWW-ZeitVenus/how-to-learn)
 
 ![Женщина спит в вагоне поезда](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/d5c11137-3de5-4a82-85a1-b92d3bf0df28)
