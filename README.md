@@ -29,10 +29,12 @@ telegram: @dmitriy_earthling
 ## Научиться учиться
 ![На картинке изображен мальчик, собачка и женщина](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/1dfe1bfa-cf51-4983-89b2-64cc7b0357e0)
 ### Функционал
+Учебный проект для совершенствования навыков веб-программирования. Информационная страница, содержит интересные наблюдения и факты из истории о нюансах процесса обучения.
 ### Технологии
+HTML, CSS (Grid, Flex, псевдоэлементы), Git
 ### Ссылки
-* ["Научиться учиться"](https://github.com/EarthlingWW-ZeitVenus/how-to-learn)
-
+* [Код](https://github.com/EarthlingWW-ZeitVenus/how-to-learn)
+* [Сайт](https://how-to-learn-mu.vercel.app)
 ![Женщина спит в вагоне поезда](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/d5c11137-3de5-4a82-85a1-b92d3bf0df28)
 * ["Путешествия по России"](https://github.com/EarthlingWW-ZeitVenus/russian-travel)
 
