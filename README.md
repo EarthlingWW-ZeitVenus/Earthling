@@ -26,6 +26,7 @@ telegram: @dmitriy_earthling
 
 ![Фон цвета морской волны, на нем глобус из слов](https://github.com/EarthlingWW-ZeitVenus/EarthlingWW-ZeitVenus/assets/63965086/cce6e39a-d5cb-4156-81a3-291f878f4bb2)
 * Дипломная работа "Movies explorer"
+
 [Фронтенд часть](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-frontend)
 
 [Бекенд часть](https://github.com/EarthlingWW-ZeitVenus/movies-explorer-api)
